@@ -6,10 +6,6 @@
 
 ![alt text](https://github.com/HamzaTas/fruit-recognition-with-neural-networks/blob/master/ss/1.png)
 
-![alt text](https://github.com/HamzaTas/fruit-recognition-with-neural-networks/blob/master/ss/2.png)
-
-![alt text](https://github.com/HamzaTas/fruit-recognition-with-neural-networks/blob/master/ss/3.png)
-
 ![alt text](https://github.com/HamzaTas/fruit-recognition-with-neural-networks/blob/master/ss/4.png)
 
 
